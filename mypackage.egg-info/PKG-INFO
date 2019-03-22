@@ -13,9 +13,9 @@ Description: # mypackage
         `python setup.py sdist`
         
         ## installing this from GitHub
-        `pip install git+https://github.com/Mmaphefo-Seseni/package.git`
+        `pip install git+https://github.com/Mmaphefo-Seseni/python-package.git`
         
         ## updating this package from GitHub
-        `pip install --upgrade git+https://github.com/Mmaphefo-Seseni/package.git`
+        `pip install --upgrade git+https://github.com/Mmaphefo-Seseni/python-package.git`
         
 Platform: UNKNOWN
