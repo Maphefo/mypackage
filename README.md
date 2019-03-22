@@ -5,7 +5,7 @@ This Python package consists of a function that returns the top-n items in an ar
 `python setup.py sdist`
 
 ## installing this from GitHub
-`pip install git+https://github.com/Mmaphefo-Seseni/python-package.git`
+`pip install git+https://github.com/Example/python-package.git`
 
 ## updating this package from GitHub
-`pip install --upgrade git+https://github.com/Mmaphefo-Seseni/python-package.git`
+`pip install --upgrade git+https://github.com/Example/python-package.git`
